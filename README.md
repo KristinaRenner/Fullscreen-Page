@@ -1,2 +1,2 @@
 # Fullscreen-Page
-url:  https://kristinaborovskikh.github.io/Fullscreen-Page/
+url:  https://kristinarenner.github.io/Fullscreen-Page/
